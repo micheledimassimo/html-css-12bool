@@ -2,10 +2,46 @@
 
 /*Debug*/
 /*General*/
-
-/*HEADER*/
-
+section {
+    margin-bottom: 40px;
+}
+h2 {
+    font-size: 2rem;
+}
 /*MAIN*/
+.blue {
+    background-color: #006CFA;
+    border: 1px solid white;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
 
+.green {
+    background-color: #00E165;
+    padding: 10px;
+    border: 1px solid #006CFA;
+}
+.padd {
+    padding: 20px;
+}
+.morepadd {
+    padding: 40px;
+}
+.top {
+    align-items: flex-start;
+}
+.middle {
+    align-items: center;
+}
+.bottom {
+    align-items: flex-end;
+}
+.space-around {
+    justify-content: space-around;
+}
+.space-between {
+    justify-content: space-between;
+}
 /*FOOTER*/
 
